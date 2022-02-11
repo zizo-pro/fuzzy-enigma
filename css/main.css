@@ -1,0 +1,60 @@
+body {
+	font-size: 30px;
+}
+.my-langs {
+	margin-left: 20px;
+	list-style-type: cambodian;
+}
+
+.Android {
+	margin-top: 10px;
+}
+
+.andriod-apps {
+	color: red;
+	width: 178px;
+	transition-duration: 6s;
+	background-color: black;
+}
+
+.andriod-apps:hover{
+	color: orangered;
+	height: 90px;
+}
+
+.small { 
+	list-style-type: square;
+	color: blue;
+	background-color: black;
+	list-style-position: initial;
+}
+
+table {
+	border: 1px solid #ccc;
+	width: 100%;
+	border-spacing: 0px;
+}
+
+table td {
+	padding: 15px;
+	background-color: #eee;
+	border: 1px solid black;
+}
+
+table thead td {
+	text-align: center;
+	font-weight: bold;
+	background-color: orangered;
+}
+
+.trans {
+	background-color: aqua;
+	font-size: 29px;
+	font-weight: bold;
+	transition-duration: 4s;
+}
+
+.trans:hover {
+	color: red;
+	background-color: black;
+}
