@@ -6,7 +6,7 @@
     <title>CSS</title>
 </head>
 <body>
-    <h3>My Languages</h3>
+    <h3>Languages</h3>
     <ul class="my-langs">
         <li>
             WEB
@@ -36,7 +36,7 @@
         <tbody>
             <tr>
                 <td>Ziad Ahmed</td> 
-                <td>459597509</td>
+                <td>459</td>
                 <td>90</td>
             </tr>
         </tbody>
